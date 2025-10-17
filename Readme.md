@@ -29,3 +29,5 @@ GeoConnect/
 ├── README.md
 └── .gitignore
 ---
+# test
+- Partager des photos et fichiers directement via l’application 📸  
