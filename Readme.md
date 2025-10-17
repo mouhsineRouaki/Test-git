@@ -12,10 +12,10 @@ GeoConnect est une application mobile Android développée avec **Kotlin** et **
 ### 1️⃣ Cloner le projet
 ```bash
 git clone https://github.com/mouhsineRouaki/GeoConnect.git
+```
 
 
-
-# 🌍 GeoConnect
+# Strusture
 GeoConnect/
 │
 ├── app/
